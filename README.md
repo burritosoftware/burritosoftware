@@ -8,3 +8,7 @@ We create products for the Apple Shortcuts platform to help developers, automato
 
 ### AppDefense
 [![](https://cdn.discordapp.com/attachments/558842854462717954/736693651941621800/IMG_4245-2.PNG)](https://vimeo.com/441665680)
+
+---
+
+Let's break the boundaries of Shortcuts. Founded at age 12 in a bedroom in California, now enriching 20,000+ users with innovative software.
