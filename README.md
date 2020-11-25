@@ -11,4 +11,4 @@ We create products for the Apple Shortcuts platform to help developers, automato
 
 ---
 
-Let's break the boundaries of Shortcuts. Founded at age 12 in a bedroom in California, now enriching 20,000+ users with innovative software.
+BurritoSOFTWARE's mission is to create easy-to-use software that allows anyone to break and redefine the boundaries of our knowledge.
