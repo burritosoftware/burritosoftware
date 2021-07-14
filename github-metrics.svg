@@ -1318,7 +1318,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 67 edited files from 54 commits over last 14 days
+            estimation from 66 edited files from 53 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1434,7 +1434,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Wed, 14 Jul 2021 09:26:57  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 14 Jul 2021 10:27:46  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
