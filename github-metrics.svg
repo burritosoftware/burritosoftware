@@ -293,7 +293,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">RhythmThing</span>
-                                <div class="bar" style="width: 18.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 18.863999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">24%</span>
                             </div>
                             <div class="entry">
@@ -337,7 +337,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Mar 2022, 07:21:44  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Mar 2022, 08:27:15  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
