@@ -8,7 +8,6 @@ Some projects you might've seen from me are:
 
 I also dabble in the **furry fandom**, **arcade rhythm games**, and **VRChat**!
 
-## Socials
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1mW6LVUtNi41X0xtF5iZ1w?style=flat&logo=youtube&label=Subscribers)](https://youtube.com/@ArcadeBurrito) [![Mastodon](https://img.shields.io/mastodon/follow/110640370680579773?domain=https%3A%2F%2Ffurry.engineer&style=flat&logo=mastodon&logoColor=white&label=Followers&color=6364f5)](https://furry.engineer/@burrito) ![GitHub](https://img.shields.io/github/stars/burritosoftware?logo=github&label=Stars&color=yellow)
 
 ---
