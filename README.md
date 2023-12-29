@@ -1,5 +1,5 @@
 # Heyo! 👋
-I'm **Burrito (they/he)**, a student solving odd bits and pieces through programming and server administration.  
+I'm **Burrito**, a student solving odd bits and pieces through programming and server administration.  
 Some projects you might've seen from me are:
 - [**Restoring and archiving "Domino's App feat. Hatsune Miku"**](https://www.youtube.com/watch?v=341IsnWdaT4)
 - [**Among Us played on the Nintendo Wii**](https://www.nintendolife.com/news/2020/12/random_among_us_on_wii_sounds_kinda_sus)
